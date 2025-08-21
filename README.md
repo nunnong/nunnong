@@ -5,5 +5,3 @@
   width="600"
   height="300"
 />
-</a>" width="1000" height="120"/>
-</a>
